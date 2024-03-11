@@ -1,0 +1,21 @@
+nav {
+	float: center;
+	line-height: 35px;
+}
+a {
+	color: #d25089;
+	text-decoration: none;
+	padding: 0 15px;
+	font-family: sans-serif;
+	font-size: 15px;
+	transition-property: font-size;
+	transition-duration: 1s;
+}
+a:hover {
+	font-size: 17px;
+	color: #e991b1;
+}
+.container-fluid {
+	width: 100%;
+	background-color: #f2e0ed;
+}
